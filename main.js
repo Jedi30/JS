@@ -1,6 +1,8 @@
 
-Name= "Chris"
-Age= 49
 
-result = `Hello, my is ${Name} and i am ${Age} years old`
-console.log(Name.toUpperCase(Name));
+Array
+const fruits=["Banana", "Grapes","Melon","Apple"];
+
+fruits[4] = "Durian";
+
+console.log(fruits);
