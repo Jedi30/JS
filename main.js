@@ -1,8 +1,5 @@
-
-
 Array
-const fruits=["Banana", "Grapes","Melon","Apple"];
 
-fruits[4] = "Durian";
-
-console.log(fruits);
+const fruit= ["Banana", "Melon", "chico", "Apple", "Guava"]
+fruit[5] = "Pineapple"
+console.log(fruit)
