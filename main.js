@@ -1,7 +1,10 @@
-const Name= "Chris";
-const Age = 49;
-const Grade = 93.5;
-const Val = null;
-const ink = undefined;
+//OBJect
 
-console.log(typeof ink);
+class Tao {
+    constructor(firstName, lastName,bt){
+        this.firstName;
+        this.lastName;
+        this.bt;
+    }
+    
+}
