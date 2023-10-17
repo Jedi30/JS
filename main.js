@@ -1,5 +1,7 @@
-Array
-
-const fruit= ["Banana", "Melon", "chico", "Apple", "Guava"]
-fruit[5] = "Pineapple"
-console.log(fruit)
+const x = 100;
+if(x===100){
+    console.log("Its 100");
+}
+else {
+    console.log("Not 100");
+}
