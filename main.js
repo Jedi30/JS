@@ -3,13 +3,13 @@
 //if hour is between 12pm and 6pm : Good afternoon!
 //otherwise: Good Evening!
 
-boarders = 15;
+boarders = 8;
 
 if(boarders >=10 && boarders < 15){
     console.log("Hindi ka Kumita");
 }
 else if (boarders>=15 && boarders< 20){
-    console.log("HKumita Ka!");
+    console.log("Kumita Ka!");
 }
 else{
     console.log("Lugi!");
