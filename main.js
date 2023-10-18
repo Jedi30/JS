@@ -1,16 +1,12 @@
-//Hour
-//if hour is between 6am and 12pm : Good morning!
-//if hour is between 12pm and 6pm : Good afternoon!
-//otherwise: Good Evening!
+// LOGICAL OR
 
-boarders = 8;
+let x = 10;
+let y = 10;
 
-if(boarders >=10 && boarders < 15){
-    console.log("Hindi ka Kumita");
+if (x==0 || y==5){
+    console.log("True")
 }
-else if (boarders>=15 && boarders< 20){
-    console.log("Kumita Ka!");
+else {
+    console.log("False")
 }
-else{
-    console.log("Lugi!");
-}
+
