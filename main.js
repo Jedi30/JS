@@ -1,9 +1,8 @@
-//Array
-fruits= ["Grapes", "Apples","Pineapples", "Durian", "Guava" ];
+let hour= 9;
 
-fruits[5] = "Langka";
-
-console.log(fruits);
-
-
-
+if(hour<10 || hour > 18){
+console.log("The office is closed!");
+}
+else  {
+    console.log("The office is open!")
+}
