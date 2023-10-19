@@ -1,8 +1,8 @@
-let hour= 9;
-
-if(hour<10 || hour > 18){
-console.log("The office is closed!");
+let hour = 12;
+let minute = 30;
+if( hour==12 && minute==30){
+    alert("The time is 12:30");
 }
-else  {
-    console.log("The office is open!")
+else {
+    alert("Wrong Time");
 }
