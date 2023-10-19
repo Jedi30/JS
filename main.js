@@ -1,12 +1,9 @@
-// LOGICAL OR
+//Array
+fruits= ["Grapes", "Apples","Pineapples", "Durian", "Guava" ];
 
-let x = 10;
-let y = 10;
+fruits[5] = "Langka";
 
-if (x==0 || y==5){
-    console.log("True")
-}
-else {
-    console.log("False")
-}
+console.log(fruits);
+
+
 
