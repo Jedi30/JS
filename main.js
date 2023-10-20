@@ -1,10 +1,5 @@
-let hour = 12;
-let minute = 30;
+//Not operator
 
-if( hour==12 && minute==30)
-    alert("The time is 12:30");
-
-else 
-    alert("Wrong Time");
+alert( !0);
 
 
