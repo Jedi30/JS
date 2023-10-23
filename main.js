@@ -1,5 +1,5 @@
 //switch
-  const favoritefruit="banana"
+  const favoritefruit="mango"
 
 switch(favoritefruit){
 
