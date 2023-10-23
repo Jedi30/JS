@@ -11,6 +11,11 @@ switch(favoritefruit){
             console.log("Rich in Potassium")
             break;
 
+    case "Watermelon":
+         console.log("refreshing fruit")
+        break;
+
+
     default:
                 console.log("I love fruitsalad")
                 break;
