@@ -1,8 +1,9 @@
 //switch
 
-witch(favoritefruit){
+const favoritefruit = "durian"
 
-    case"mango":
+switch(favoritefruit){
+case"mango":
         console.log("Very delicious fruit")
         break
 
@@ -19,6 +20,7 @@ witch(favoritefruit){
 
 
     }
+    
 }
 
 
