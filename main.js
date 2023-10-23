@@ -1,4 +1,5 @@
 //switch
+  const favoritefruit="banana"
 
 switch(favoritefruit){
 
@@ -6,12 +7,12 @@ switch(favoritefruit){
         console.log("My most favorite fruit")
         break;
 
-        case "banana":
-            console.log("Potassium")
+    case "banana":
+            console.log("Rich in Potassium")
             break;
 
-            default:
-                console.log("I loove fruitsalad")
+    default:
+                console.log("I love fruitsalad")
                 break;
 }
 
