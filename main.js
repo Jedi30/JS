@@ -1,26 +1,17 @@
 //switch
 
-const favoritefruit = "durian"
-
 switch(favoritefruit){
-case"mango":
-        console.log("Very delicious fruit")
-        break
 
-    case"Apple":
-    console.log("Delicious too")
-    break
+    case "mango":
+        console.log("My most favorite fruit")
+        break;
 
-    case "Durian":
-    console.log("Exotic Food")
-    break
+        case "banana":
+            console.log("Potassium")
+            break;
 
-    default
-    console.log("Never tasted this fruit before")
-
-
-    }
-    
+            default:
+                console.log("I loove fruitsalad")
+                break;
 }
-
 
